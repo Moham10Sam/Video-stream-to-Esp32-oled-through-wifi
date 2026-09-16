@@ -1,0 +1,6 @@
+
+
+steps:
+1) python preprocessor.py your_video.mp4 output.bin
+2) python playback.py output.bin <Esp's_IP_ADDRESS>  3333
+
